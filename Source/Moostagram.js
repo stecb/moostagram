@@ -18,7 +18,7 @@ provides: [Moostagram]
 
 var Moostagram = new Class({
     
-    Implements: [Options, Events],
+    Implements: [Options],
     
     options:{
         hash: 'hash',
