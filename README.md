@@ -8,9 +8,9 @@ How to use
 
 Import the plugin
 
-    <script src="moostagram.js"></script>
+    <script src="/Source/moostagram.js"></script>
 
-Insert an empty `div` in the code
+Insert an empty `div` in the html
 
     <div id="instagram-container"></div>
 
