@@ -17,7 +17,7 @@ Moostagram Method: constructor {#Moostagram:constructor}
 
 ### Arguments:
 
-1. element - a Mootools element
+1. container - a Mootools element grabbed from the dom
 2. option - a set of options
 
 ### Returns:
