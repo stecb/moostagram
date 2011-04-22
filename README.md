@@ -8,7 +8,7 @@ How to use
 
 Import the plugin
 
-    <script src="/Source/moostagram.js"></script>
+    <script src="/Source/Moostagram.js"></script>
 
 Insert an empty `div` in the html
 
